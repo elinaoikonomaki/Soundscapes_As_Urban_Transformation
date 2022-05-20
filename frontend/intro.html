@@ -1,0 +1,233 @@
+<!DOCTYPE html> 
+<html> 
+  <head>
+    <link rel="stylesheet" href="styleIntro.css">
+		<script src="https://d3js.org/d3.v5.min.js">		</script>
+    <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
+    <script src="https://d3js.org/d3-fetch.v2.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" charset="utf-8"></script>
+    
+  </head>
+
+  <body>
+    <div id='intro'>
+        <h1>Urban Transformations in Harvard Sq. During COVID-19</h1>
+        <div id="authors">
+             Elina Oikonomaki 
+        </div>
+	<div style= "font-style: italic;">
+	
+	</div>
+    </div> 
+    <div class="intro-container">
+        <div class="main-intro">
+            <p>Massachusetts has been one of the hardest hit states in the U.S., with over 86,000 confirmed cases and 5,700 deaths through May 17, 2020.
+On March 23, 2020 Governor Baker issued an executive order closing all non-essential businesses across the Commonwealth in order to reduce the transmission of COVID-19.
+            </p>
+            <p>
+            
+            The goal of this phased reopening plan is to methodically allow businesses, services, and activities to resume, while avoiding a resurgence of COVID-19 that could overwhelm our healthcare system and erase the progress we’ve made so far.
+            </p>
+            <!-- <a href="https://www.mass.gov/doc/reopening-massachusetts-may-18-2020/download"> -->
+            
+
+
+
+
+        </div>
+        
+        </div>
+    </div> 
+    
+      <div id= 'section1' class="rows">
+          <div class="inner">
+            <h2>PHASE 1</h2>
+            <h3>Policies</h3>
+            <h4>May 11th - June 8th </h4>
+            <p>With restrictions, some capacity limitations, staggered start:
+                On May 18:
+                • Essential business • Manufacturing
+                • Construction
+                On May 25:
+                • Lab space
+                • Office space
+                • Limited Personal
+                Services
+                – Hair
+                – Pet grooming – Car washes
+                • Retail
+                – Remotefulfilment – Curbside pick-up
+                On June 1:
+                • Office space: Boston            
+            </p>
+            </div>
+            <div class="graph">
+              <img src="/img/01.jpeg" alt="Mountains" width="600" height="400">
+              <!-- <img src="/img/02.jpeg" alt="Mountains" width="600" height="400"> -->
+              <!-- <img src="/img/Phases.png" alt="Mountains" width="600" height="400">
+              <img src="/img/Phases.png" alt="Mountains" width="600" height="400"> -->
+              <!-- <button class = "buttonGDP"onclick="turnOnGDP(1)">Show GDP Graph</button>
+              <button class = "buttonYEAR"onclick="turnOnYEAR(1)">Show YEAR Graph</button>  -->  
+              <div id="lineChart1">
+                <!-- <img src="/img/Phases.png" alt="Mountains" width="600" height="400"> -->
+                
+              </div>
+
+              
+            
+            </div>
+          </div>
+      <div id= 'section2' class="rows">
+          <div class="inner">
+            <h2>PHASE II PArt I</h2>  
+            <h3>Policies</h3>
+            <h4>June 8th - June 22nd</h4>
+            <p>
+            Open with updated guidelines, outdoor services are encouraged
+            Potentially updated guidance for Phase 1 businesses
+            With restrictions and some capacity limitations:
+            • Retail
+            • Restaurants*
+            • Lodging*
+            • Additional Personal Services
+            – e.g., Nail salons – e.g., Day spas </p>
+
+            <p style="font-style:italic;" style="color:#ccd4e6;"> References
+              <a href= "https://www.mass.gov/doc/reopening-massachusetts-may-18-2020/download" target="_blank"></a>
+              
+            </p>
+            
+          </div>
+          <div class="graph">
+            <!-- <button class = "buttonGDP"onclick="turnOnGDP(2)">Show GDP Graph</button>
+            <button class = "buttonYEAR"onclick="turnOnYEAR(2)">Show YEAR Graph</button> -->
+            <img src="/img/1.png" alt="Mountains" width="600" height="200">
+            <img src="/img/2.png" alt="Mountains" width="600" height="200">
+            <!-- <img src="/img/Phases.png" alt="Mountains" width="600" height="400"> -->
+            <div id="lineChart2"></div>
+          </div>  
+        </div>
+        <div id= 'section3' class="rows">  
+          <div class="inner">
+            <h2>PHASE II PArt II</h2>
+            <h3>Policies</h3>
+            <h4>June 22nd - July 2nd</h4>
+            <p>
+            Open with updated guidelines, outdoor services are encouraged
+            Potentially updated guidance for Phase 1 businesses
+            With restrictions and some capacity limitations:
+            • Retail
+            • Restaurants*
+            • Lodging*
+            • Additional Personal Services
+            – e.g., Nail salons – e.g., Day spas </p>
+
+            <p style="font-style:italic;" style="color:#ccd4e6;"> Reference to Policies
+              <a href= "https://www.mass.gov/doc/reopening-massachusetts-may-18-2020/download" target="_blank"> </a></p>
+              
+            </p>
+          </div>
+          <div class="graph">
+            <!-- <button class = "buttonGDP"onclick="turnOnGDP(3)">Show GDP Graph</button>
+            <button class = "buttonYEAR"onclick="turnOnYEAR(3)">Show YEAR Graph</button> --> 
+            <img src="/img/3.jpg" alt="Mountains" width="600" height="400">
+            <img src="/img/4.jpg" alt="Mountains" width="600" height="400">
+            <!-- <img src="/img/Phases.png" alt="Mountains" width="600" height="400">  -->
+            <div id="lineChart3"></div>
+          </div>
+        </div>
+        <div id= 'section4' class="rows"> 
+          <div class="inner">
+            <h2>PHASE III PArt I</h2>
+            <h3>Policies</h3>
+            <h4>July 2nd - October 5th</h4>
+            <p>
+              Open with updated guidelines, outdoor services are encouraged
+              Potentially updated guidance for Phase 1 & 2 businesses
+              With restrictions and some capacity limitations:
+              • Bars
+              • Arts & Entertainment – e.g., Casinos
+              – e.g., Fitness, gyms – e.g., Museums
+              • All other business activities resume except for nightclubs and large venues
+            </p>
+            
+<!--             <p style="font-style:italic;" style="color:#ccd4e6;"> References
+              <a href= "https://www.mass.gov/doc/reopening-massachusetts-may-18-2020/download" target="_blank"> </a>
+              </p> -->
+          </div>
+          <div class="graph">
+            <!-- <button class = "buttonGDP"onclick="turnOnGDP(4)">Show GDP Graph</button>
+            <button class = "buttonYEAR"onclick="turnOnYEAR(4)">Show YEAR Graph</button> -->
+            <!-- <img src="/img/5.jpg" alt="Mountains" width="600" height="400"> -->
+            <img src="/img/6.jpg" alt="Mountains" width="600" height="400">
+            <img src="/img/7.jpg" alt="Mountains" width="600" height="400">
+            <div id="lineChart4"></div> 
+          </div> 
+        </div>
+        <div id= 'section5' class="rows">  
+          <div class="inner">
+            <h2>Notation</h2>
+            <h3>Analysis of Visual Encodings</h3>
+            <h4>Line Chart Year Range [1960,2000]</h4>
+            <p>
+              For representing the Spatial and Kinematic and Sound Transformations and show the correlations, I developed a notational system 
+            </p>
+            <p style="font-style:italic;" style="color:#ccd4e6;"> References
+              <a href= "https://www.rbth.com/science_and_tech/2014/09/24/computers_in_the_ussr_a_story_of_missed_opportunities_40073.html" target="_blank"> [8] </a>
+            </p>
+
+          </div>
+          <div class="graph">
+            <!-- <button class = "buttonGDP"onclick="turnOnGDP(5)">Show GDP Graph</button>
+            <button class = "buttonYEAR"onclick="turnOnYEAR(5)">Show YEAR Graph</button>   -->
+            <div class="responsive">
+                <div class="gallery">
+                  <a target="_blank" href="img_mountains.jpg">
+                    <img src="/img/plp_beat_1min.png" alt="Mountains" width="600" height="400">
+                  </a>
+                  <a target="_blank" href="img_mountains.jpg">
+                    <img src="/img/Notation.png" alt="Mountains" width="600" height="400">
+                  </a>
+                  <!-- <a target="_blank" href="img_mountains.jpg">
+                    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+                  </a> -->
+                  <div class="desc">Add a description of the image here</div>
+                </div>
+            </div>
+            <div id="lineChart5"></div>
+
+          </div>
+        </div>
+        <div>
+            <form>
+                <input type="button" onclick="window.location.href = 'https://www.w3docs.com';" value="Explore the different Phases"/>
+            </form>
+
+        </div>
+        
+
+</body>
+<script>
+
+let targets = document.querySelectorAll('.rows');
+
+window.addEventListener("scroll", function(){
+  let doc = document.documentElement;
+  let top = (window.pageYOffset || doc.scrollTop)  - (doc.clientTop || 0);
+  
+  let windowHeight = window.innerHeight;
+  
+  for (i = 0; i < targets.length; ++i) {
+    let target = targets[i];
+    if(target.offsetTop < (top + (windowHeight/2))) {
+      target.classList.add("visible");
+    }
+    else {
+      target.classList.remove("visible");
+    }
+  }
+});
+
+</script>
+  
+</html>

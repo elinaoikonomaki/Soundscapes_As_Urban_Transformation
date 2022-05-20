@@ -1,0 +1,780 @@
+{
+    "days": {
+        "06012020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "06012020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "06022020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "06022020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "06032020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "06032020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "06042020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "06042020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "06052020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "06052020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "06062020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "06062020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "06072020_PM": {
+            "value": true,
+            "url": "./walks/200607_PM.json"
+        },
+        "06072020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "06082020_PM": {
+            "value": true,
+            "url": "./walks/200608_PM.json"
+        },
+        "06082020_AM": {
+            "value": true,
+            "url": "./walks/200608_AM.json"
+        },
+        "06092020_PM": {
+            "value": true,
+            "url": "./walks/200609_PM.json"
+        },
+        "06092020_AM": {
+            "value": true,
+            "url": "./walks/200609_AM.json"
+        },
+        "06102020_PM": {
+            "value": true,
+            "url": "./walks/200610_PM.json"
+        },
+        "06102020_AM": {
+            "value": true,
+            "url": "./walks/200610_AM.json"
+        },
+        "06112020_PM": {
+            "value": false,
+            "url": "./walks/200611_PM.json"
+        },
+        "06112020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "06122020_PM": {
+            "value": true,
+            "url": "./walks/200612_PM.json"
+        },
+        "06122020_AM": {
+            "value": true,
+            "url": "./walks/200612_AM.json"
+        },
+        "06132020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "06132020_AM": {
+            "value": true,
+            "url": "./walks/200613_AM.json"
+        },
+        "06142020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "06142020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "06152020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "06152020_AM": {
+            "value": true,
+            "url": "./walks/200615_AM.json"
+        },
+        "06162020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "06162020_AM": {
+            "value": true,
+            "url": "./walks/200616_AM.json"
+        },
+        "06172020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "06172020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "06182020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "06182020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "06192020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "06192020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "06202020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "06202020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "06212020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "06212020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "06222020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "06222020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "06232020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "06232020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "06242020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "06242020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "06252020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "06252020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "06262020_PM": {
+            "value": true,
+            "url": "./walks/200626_PM.json"
+        },
+        "06262020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "06272020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "06272020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "06282020_PM": {
+            "value": true,
+            "url": "./walks/200628_PM.json"
+        },
+        "06282020_AM": {
+            "value": true,
+            "url": "./walks/200628_AM.json"
+        },
+        "06292020_PM": {
+            "value": true,
+            "url": "./walks/200629_PM.json"
+        },
+        "06292020_AM": {
+            "value": true,
+            "url": "./walks/200629_AM.json"
+        },
+        "06302020_PM": {
+            "value": true,
+            "url": "./walks/200630_PM.json"
+        },
+        "06302020_AM": {
+            "value": true,
+            "url": "./walks/200630_AM.json"
+        },
+        "07012020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "07012020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07022020_PM": {
+            "value": true,
+            "url": "./walks/200702_PM.json"
+        },
+        "07022020_AM": {
+            "value": true,
+            "url": "./walks/200702_AM.json"
+        },
+        "07032020_PM": {
+            "value": true,
+            "url": "./walks/200703_PM.json"
+        },
+        "07032020_AM": {
+            "value": true,
+            "url": "./walks/200703_AM.json"
+        },
+        "07042020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07042020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07052020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07052020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "07062020_PM": {
+            "value": true,
+            "url": "./walks/200706_PM.json"
+        },
+        "07062020_AM": {
+            "value": true,
+            "url": "./walks/200706_AM.json"
+        },
+        "07072020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07072020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07082020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07082020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07092020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "07092020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07102020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "07102020_AM": {
+            "value": true,
+            "url": "./walks/200710_AM.json"
+        },
+        "07112020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07112020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "07122020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "07122020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07132020_PM": {
+            "value": true,
+            "url": "./walks/200713_PM.json"
+        },
+        "07132020_AM": {
+            "value": true,
+            "url": "./walks/200713_AM.json"
+        },
+        "07142020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07142020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07152020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07152020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07162020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07162020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07172020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07172020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07182020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07182020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07192020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07192020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "07202020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07202020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07212020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07212020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07222020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "07222020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07232020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07232020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07242020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07242020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07252020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07252020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07262020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "07262020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07272020_PM": {
+            "value": true,
+            "url": "./walks/200727_PM.json"
+        },
+        "07272020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07282020_PM": {
+            "value": true,
+            "url": "./walks/200728_PM.json"
+        },
+        "07282020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07292020_PM": {
+            "value": true,
+            "url": "./walks/200729_PM.json"
+        },
+        "07292020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07302020_PM": {
+            "value": true,
+            "url": "./walks/200730_PM.json"
+        },
+        "07302020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "07312020_PM": {
+            "value": true,
+            "url": "./walks/200731_PM.json"
+        },
+        "07312020_AM": {
+            "value": true,
+            "url": "./walks/200731_AM.json"
+        },
+        "08012020_PM": {
+            "value": true,
+            "url": "./walks/200801_PM.json"
+        },
+        "08012020_AM": {
+            "value": true,
+            "url": "./walks/200801_AM.json"
+        },
+        "08022020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08022020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08032020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08032020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "08042020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08042020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "08052020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08052020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08062020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08062020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08072020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08072020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "08082020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08082020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "08092020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08092020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "08102020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08102020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "08112020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08112020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "08122020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08122020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08132020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08132020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "08142020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08142020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08152020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08152020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "08162020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08162020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "08172020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08172020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "08182020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08182020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "08192020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08192020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08202020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08202020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08212020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08212020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "08222020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08222020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08232020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08232020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08242020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08242020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08252020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08252020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08262020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08262020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08272020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08272020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08282020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08282020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08292020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "08292020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "08302020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08302020_AM": {
+            "value": true,
+            "url": ""
+        },
+        "08312020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "08312020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "09012020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "09012020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "09022020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "09022020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "09032020_PM": {
+            "value": true,
+            "url": ""
+        },
+        "09032020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "09042020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "09042020_AM": {
+            "value": false,
+            "url": ""
+        },
+        "09052020_PM": {
+            "value": false,
+            "url": ""
+        },
+        "09052020_AM": {
+            "value": false,
+            "url": ""
+        }
+    }
+}

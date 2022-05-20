@@ -1,0 +1,424 @@
+{
+  "phase": [
+    {
+      "lat": "-71.1130561",
+      "lon": "42.3703858",
+      "name": "Brattle Square Optical",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "R",
+      "bst_or": "L"
+    },
+    {
+      "lat": "-71.1133515",
+      "lon": "42.3705697",
+      "name": "Cafe Sushi",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "R",
+      "bst_or": "L"
+    },
+    {
+      "lat": "-71.1135086",
+      "lon": "42.3707146",
+      "name": "Zoe's",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "R",
+      "bst_or": "L"
+    },
+    {
+      "lat": "-71.1136757",
+      "lon": "42.3708557",
+      "name": "Boston Burger Company",
+      "status": "Open",
+      "bst": "0",
+      "bb": "1",
+      "bb_or": "R",
+      "bst_or": "L"
+    },
+    {
+      "lat": "-71.1158867",
+      "lon": "42.3721293",
+      "name": "Hokkaido Ramen Santouka Harvard Square",
+      "status": "Open",
+      "bst": "0",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1159671",
+      "lon": "42.3723864",
+      "name": "Hong Kong",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.116286",
+      "lon": "42.37255",
+      "name": "Harvard Book Store",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1169414",
+      "lon": "42.3726822",
+      "name": "Tatte Bakery & Cafe",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1173161",
+      "lon": "42.3727516",
+      "name": "Zinnia Jewelry",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1175184",
+      "lon": "42.3728668",
+      "name": "J.P. Licks",
+      "status": "Open",
+      "bst": "0",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1176261",
+      "lon": "42.3728555",
+      "name": "Leavitt & Peirce Inc",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1177877",
+      "lon": "42.372888",
+      "name": "Porcellian Club",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1178962",
+      "lon": "42.3729277",
+      "name": "Clover Food Lab",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1195371",
+      "lon": "42.3735745",
+      "name": "Milk Bar Harvard Square",
+      "status": "Open",
+      "bst": "0",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1196913",
+      "lon": "42.3737298",
+      "name": "Harvard Coop",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1191529",
+      "lon": "42.374173",
+      "name": "OTTO",
+      "status": "Open",
+      "bst": "0",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.119084",
+      "lon": "42.3742019",
+      "name": "C'est Bon Market & Liquors",
+      "status": "Open",
+      "bst": "0",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1191211",
+      "lon": "42.3742998",
+      "name": "Pokeworks",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1192652",
+      "lon": "42.3742832",
+      "name": "Mint Julep",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1202318",
+      "lon": "42.3742934",
+      "name": "Border Cafe",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1206915",
+      "lon": "42.374186",
+      "name": "Dado Tea",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1205932",
+      "lon": "42.3739749",
+      "name": "The Sinclair",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1209906",
+      "lon": "42.3740292",
+      "name": "Swiss Watchmaker",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1212945",
+      "lon": "42.3739402",
+      "name": "WHOLESOME FRESH",
+      "status": "Open",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1210051",
+      "lon": "42.3735782",
+      "name": "Crimson Corner",
+      "status": "Open",
+      "bst": "0",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1207469",
+      "lon": "42.3736503",
+      "name": "Brattle Square Florist",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1207177",
+      "lon": "42.3735017",
+      "name": "Bluestone Lane Harvard Square Caf\u00e9",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1204944",
+      "lon": "42.3734811",
+      "name": "Felipe's Taqueria",
+      "status": "Open",
+      "bst": "1",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.120451",
+      "lon": "42.373558",
+      "name": "Rebekah Brooks Jewelry",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1202727",
+      "lon": "42.3735563",
+      "name": "Gap",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1197726",
+      "lon": "42.3736032",
+      "name": "Cardullo's Gourmet Shoppe",
+      "status": "Open",
+      "bst": "1",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.119384",
+      "lon": "42.3732123",
+      "name": "CVS",
+      "status": "Open",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.119459",
+      "lon": "42.373158",
+      "name": "Russell House Tavern",
+      "status": "Open",
+      "bst": "1",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1199179",
+      "lon": "42.3725934",
+      "name": "Tasty Burger",
+      "status": "Open",
+      "bst": "1",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1197568",
+      "lon": "42.3725915",
+      "name": "El Jefe's Taqueria",
+      "status": "Open",
+      "bst": "1",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1180289",
+      "lon": "42.37204",
+      "name": "Insomnia Cookies",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.116874",
+      "lon": "42.371489",
+      "name": "Blue Bottle Coffee",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.116477",
+      "lon": "42.3713279",
+      "name": "Daedalus",
+      "status": "Open",
+      "bst": "0",
+      "bb": "1",
+      "bb_or": "L",
+      "bst_or": "R"
+    },
+    {
+      "lat": "-71.1145411",
+      "lon": "42.370818",
+      "name": "Looks",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "R",
+      "bst_or": "L"
+    },
+    {
+      "lat": "-71.1139561",
+      "lon": "42.3706495",
+      "name": "Karma Yoga Studio & Karma Gym",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "R",
+      "bst_or": "L"
+    },
+    {
+      "lat": "-71.113689",
+      "lon": "42.370425",
+      "name": "Big Picture Framing-Harvard Square",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "R",
+      "bst_or": "L"
+    },
+    {
+      "lat": "-71.1130561",
+      "lon": "42.3703858",
+      "name": "Brattle Square Optical",
+      "status": "Closed",
+      "bst": "0",
+      "bb": "0",
+      "bb_or": "R",
+      "bst_or": "L"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+ffmpeg -i elinaTest1.wav -map_channel 0.0.0 1.wav -map_channel 0.0.1 2.wav -map_channel 0.0.2 3.wav -map_channel 0.0.3 4.wav
